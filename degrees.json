@@ -1,0 +1,45 @@
+{"my_past_and_future_study":[
+    {
+        "id": 1,
+        "School": "University of Manitoba",
+        "Major": "Finance",
+        "Degree": "Bachelor of Comm.(Hon)",
+        "Year conferred": "1993"
+    },
+    {
+        "id": 2,
+        "School": "Deakin University",
+        "Major": "Financial Planning",
+        "Degree": "Diploma of Financial Planning",
+        "Year conferred": "1998"
+    },
+    {
+        "id": 3,
+        "School": "Fin Planning Assoc. Australia",
+        "Major": "CFP",
+        "Degree": "Certified Financial Planner",
+        "Year conferred": "1999"
+    },
+    {
+        "id": 4,
+        "School": "Stanford University",
+        "Major": "Business Leadership",
+        "Degree": "Certificate of Completion",
+        "Year conferred": "2013"
+    },
+    {
+        "id": 5,
+        "School": "Monash University",
+        "Major": "FinTech",
+        "Degree": "Certificate of Completion",
+        "Year conferred": "2022"
+    },
+    {
+        "id":6,
+        "School":"Boston University",
+        "Major":"TBA",
+        "Degree":"Masters of Soft. Dev",
+        "Year conferred":"2025"
+    }
+]
+}
